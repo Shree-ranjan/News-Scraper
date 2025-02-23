@@ -1,0 +1,13 @@
+backend/.vscode/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.pytest_cache/
+
+front/.vscode/
+front/__pycache__/
+front/**/__pycache__/
+
+backend/.env
+front/.env
+backend/venv/
+
